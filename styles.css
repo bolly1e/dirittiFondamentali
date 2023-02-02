@@ -117,15 +117,16 @@
 .v {
   width: 50vw;
   background-color: brown;
+  padding: 20px;
 }
 
 .n {
   background-color: brown;
+  padding: 30px;
 }
 
 .v,
 .n {
-  padding: 20px;
   border-radius: 10px;
   color: white;
 }
@@ -140,7 +141,7 @@
   width: 50vw;
   background-color: brown;
   color: white;
-  padding: 25px;
+  padding: 35px;
   border-radius: 10px;
 }
 
